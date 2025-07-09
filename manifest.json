@@ -3,7 +3,7 @@
   "short_name": "EpoxyCalc",
   "id": "/",
   "description": "Calculate epoxy resin/hardener and 2-stroke fuel:oil mix ratios with ease.",
-  "start_url": "/index.html",
+  "start_url": "https://serjeown.github.io/epoxy-calculator/index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#007bff",
