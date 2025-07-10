@@ -29,5 +29,12 @@
     "utilities"
   ],
   "dir": "ltr",
-  "lang": "en"
+  "lang": "en",
+  "screenshots": [
+    {
+      "src": "screenshot1.png",
+      "sizes": "768x825",
+      "type": "image/png"
+    }
+  ]
 }
