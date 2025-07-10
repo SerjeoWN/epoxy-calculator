@@ -1,11 +1,12 @@
 {
-  "name": "Epoxy & Fuel Mix Calculator",
+  "name": "Epoxy Calculator",
   "short_name": "EpoxyCalc",
+  "description": "Calculate epoxy resin and fuel-oil mix ratios easily.",
   "start_url": "./index.html",
   "display": "standalone",
+  "orientation": "portrait",
   "background_color": "#ffffff",
   "theme_color": "#007bff",
-  "description": "Calculator for epoxy resin and two-stroke fuel mix",
   "icons": [
     {
       "src": "icon-192.png",
