@@ -19,5 +19,10 @@
     }
   ],
   "prefer_related_applications": false,
-  "scope": "./"
+  "scope": "./",
+  "id": "/",
+  "launch_handler": {
+    "client_mode": "navigate-existing"
+  },
+  "orientation": "portrait"
 }
