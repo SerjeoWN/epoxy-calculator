@@ -133,11 +133,11 @@
     <label for="fuelAmount" data-i18n="fuel_label">Fuel volume (liters):</label>
     <input type="number" id="fuelAmount" placeholder="e.g. 1.0">
 
-    <label for="ratio" data-i18n="ratio_label">Fuel:Oil ratio (e.g. 50 for 50:1)</label>
+    <label for="ratio" data-i18n="ratio_label">Fuel:Oil ratio (e.g. 50 for 50:1 or 75 for 75:1)</label>
     <input type="number" id="ratio" placeholder="e.g. 50" onfocus="showHint('fuelHint')" onblur="hideHint('fuelHint')">
     <div id="fuelHint" class="hint">
-      Typical mix ratio for two-stroke outboards is 100:1. For new engines, use 50:1 for first 50 hours.
-    </div>
+  A typical mixture ratio for two-stroke outboards since the 2000s is 100:1. For the first 50-100 hours of a new motor, use a mixture with double the oil content of 50:1.
+</div>
 
     <button onclick="calculateMixRatio()" data-i18n="calc_mix">Calculate Fuel Mix</button>
     <div class="result" id="mixResult"></div>
