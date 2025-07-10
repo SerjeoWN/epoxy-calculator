@@ -24,5 +24,10 @@
   "launch_handler": {
     "client_mode": "navigate-existing"
   },
-  "orientation": "portrait"
+  "orientation": "portrait",
+  "categories": [
+    "utilities"
+  ],
+  "dir": "ltr",
+  "lang": "en"
 }
